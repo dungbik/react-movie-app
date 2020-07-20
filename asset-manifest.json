@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dungbik/react-movie-app/static/css/main.8b753a5b.chunk.css",
+    "main.js": "/dungbik/react-movie-app/static/js/main.4bdf5e1c.chunk.js",
+    "main.js.map": "/dungbik/react-movie-app/static/js/main.4bdf5e1c.chunk.js.map",
+    "runtime-main.js": "/dungbik/react-movie-app/static/js/runtime-main.02bb592a.js",
+    "runtime-main.js.map": "/dungbik/react-movie-app/static/js/runtime-main.02bb592a.js.map",
+    "static/js/2.c9e1654d.chunk.js": "/dungbik/react-movie-app/static/js/2.c9e1654d.chunk.js",
+    "static/js/2.c9e1654d.chunk.js.map": "/dungbik/react-movie-app/static/js/2.c9e1654d.chunk.js.map",
+    "index.html": "/dungbik/react-movie-app/index.html",
+    "precache-manifest.44dbd3c9062509dd600f424b119943ad.js": "/dungbik/react-movie-app/precache-manifest.44dbd3c9062509dd600f424b119943ad.js",
+    "service-worker.js": "/dungbik/react-movie-app/service-worker.js",
+    "static/css/main.8b753a5b.chunk.css.map": "/dungbik/react-movie-app/static/css/main.8b753a5b.chunk.css.map",
+    "static/js/2.c9e1654d.chunk.js.LICENSE.txt": "/dungbik/react-movie-app/static/js/2.c9e1654d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02bb592a.js",
+    "static/js/2.c9e1654d.chunk.js",
+    "static/css/main.8b753a5b.chunk.css",
+    "static/js/main.4bdf5e1c.chunk.js"
+  ]
+}
